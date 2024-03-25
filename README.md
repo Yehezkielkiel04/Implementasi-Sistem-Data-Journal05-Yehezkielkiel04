@@ -1,1 +1,3 @@
-# Implementasi-Sistem-Data-Journal05-Yehezkielkiel04
+Nama : Yehezkiel Theysa Fredy
+NIM : 607062300091
+Kelas : D3IF-47-04
